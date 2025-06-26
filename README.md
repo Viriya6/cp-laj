@@ -3,4 +3,4 @@ Complete - ✅\
 Not complete - 🔨
 
 Code 🔽 
-> Empty laa..
+> It's Magic [🎩] - ✅ [[Mikroskil](https://tlx.toki.id/problems/mikroskil-cp-2014-final/A)]
