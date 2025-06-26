@@ -1,2 +1,6 @@
-# cp-laj
-source code my code for competitive programming 👨🏻‍💻🙉
+## # Code to crazy 😊🙏🏻
+Complete - ✅\
+Not complete - 🔨
+
+Code 🔽 
+> Empty laa..
