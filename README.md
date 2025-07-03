@@ -13,3 +13,4 @@ Code 🔽
 * Ultra-Fast Mathematician [🔢] - ✅ [[Codeforces](https://codeforces.com/problemset/problem/61/A)]
 * Stones On The Table [🪨] - ✅ [[Codeforces](https://codeforces.com/problemset/problem/266/A)]
 * Trippi Troppi [🦐] - ✅ [[Codeforces](https://codeforces.com/problemset/problem/2094/A)]
+* Vlad And The Best Of Five [5️⃣] - ✅ [[Codeforces](https://codeforces.com/problemset/problem/1926/A)]
