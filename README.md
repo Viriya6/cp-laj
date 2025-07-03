@@ -12,3 +12,4 @@ Code 🔽
 * Super Agent [🕵🏻‍♂️] - ✅ [[Codeforces](https://codeforces.com/problemset/problem/12/A)]
 * Ultra-Fast Mathematician [🔢] - ✅ [[Codeforces](https://codeforces.com/problemset/problem/61/A)]
 * Stones On The Table [🪨] - ✅ [[Codeforces](https://codeforces.com/problemset/problem/266/A)]
+* Trippi Troppi [🦐] - ✅ [[Codeforces](https://codeforces.com/problemset/problem/2094/A)]
