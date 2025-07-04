@@ -1,4 +1,5 @@
-## # Code to crazy 😊🙏🏻
+## # Code to crazy 😊🙏🏻 ![Codeforces Badge](https://codeforces-readme-stats.vercel.app/api/badge?username=Viriya6)
+
 Complete - ✅\
 Not complete - 🔨
 
