@@ -16,3 +16,8 @@ Code 🔽
 * Trippi Troppi [🦐] - ✅ [[Codeforces](https://codeforces.com/problemset/problem/2094/A)]
 * Vlad And The Best Of Five [5️⃣] - ✅ [[Codeforces](https://codeforces.com/problemset/problem/1926/A)]
 * Plus Or Minus [➕➖] - ✅ [[Codeforces](https://codeforces.com/problemset/problem/1807/A)]
+* Marathon [🎽] - ✅ [[Codeforces](https://codeforces.com/problemset/problem/1692/A)]
+* Life Of A Flower [🌼] - ✅ [[Codeforces](https://codeforces.com/problemset/problem/1585/A)]
+* Prison Break [🏃🏻‍♂️🏢] - ✅ [[Codeforces](https://codeforces.com/problemset/problem/1482/A)]
+* Minutes Before The New Year [🎆🎉] - ✅ [[Codeforces](https://codeforces.com/problemset/problem/1283/A)]
+* Tanya And Stairways [🪜] - ✅ [[Codeforces](https://codeforces.com/problemset/problem/1005/A)]
