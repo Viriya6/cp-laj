@@ -21,3 +21,4 @@ Code 🔽
 * Prison Break [🏃🏻‍♂️🏢] - ✅ [[Codeforces](https://codeforces.com/problemset/problem/1482/A)]
 * Minutes Before The New Year [🎆🎉] - ✅ [[Codeforces](https://codeforces.com/problemset/problem/1283/A)]
 * Tanya And Stairways [🪜] - ✅ [[Codeforces](https://codeforces.com/problemset/problem/1005/A)]
+* Bear And Big Brother [🐻] - ✅ [[Codeforces](https://codeforces.com/problemset/problem/791/A)]
