@@ -22,3 +22,5 @@ Code 🔽
 * Minutes Before The New Year [🎆🎉] - ✅ [[Codeforces](https://codeforces.com/problemset/problem/1283/A)]
 * Tanya And Stairways [🪜] - ✅ [[Codeforces](https://codeforces.com/problemset/problem/1005/A)]
 * Bear And Big Brother [🐻] - ✅ [[Codeforces](https://codeforces.com/problemset/problem/791/A)]
+* Panoramix's Prediction [2️⃣3️⃣] - ✅ [[Codeforces](https://codeforces.com/problemset/problem/80/A)]
+
