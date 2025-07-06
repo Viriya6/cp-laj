@@ -23,4 +23,6 @@ Code 🔽
 * Tanya And Stairways [🪜] - ✅ [[Codeforces](https://codeforces.com/problemset/problem/1005/A)]
 * Bear And Big Brother [🐻] - ✅ [[Codeforces](https://codeforces.com/problemset/problem/791/A)]
 * Panoramix's Prediction [2️⃣3️⃣] - ✅ [[Codeforces](https://codeforces.com/problemset/problem/80/A)]
-
+* Bit++ [👨🏻‍💻] - ✅ [[Codeforces](https://codeforces.com/problemset/problem/282/A)]
+* System Administrator [💻] - ✅ [[Codeforces](https://codeforces.com/problemset/problem/245/A)]
+* Greg's Workout [🏋🏻‍♂️] - ✅ [[Codeforces](https://codeforces.com/problemset/problem/255/A)]
