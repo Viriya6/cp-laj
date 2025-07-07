@@ -27,4 +27,5 @@ Code 🔽
 * System Administrator [💻] - ✅ [[Codeforces](https://codeforces.com/problemset/problem/245/A)]
 * Greg's Workout [🏋🏻‍♂️] - ✅ [[Codeforces](https://codeforces.com/problemset/problem/255/A)]
 * Magnets [🧲] - ✅ [[Codefrces](https://codeforces.com/problemset/problem/344/A)]
+* Coder [👨🏻‍💻] - ✅ [[Codeforces](https://codeforces.com/problemset/problem/384/A)]
 
