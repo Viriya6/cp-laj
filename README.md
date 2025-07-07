@@ -26,3 +26,5 @@ Code 🔽
 * Bit++ [👨🏻‍💻] - ✅ [[Codeforces](https://codeforces.com/problemset/problem/282/A)]
 * System Administrator [💻] - ✅ [[Codeforces](https://codeforces.com/problemset/problem/245/A)]
 * Greg's Workout [🏋🏻‍♂️] - ✅ [[Codeforces](https://codeforces.com/problemset/problem/255/A)]
+* Magnets [🧲] - ✅ [[Codefrces](https://codeforces.com/problemset/problem/344/A)]
+
