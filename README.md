@@ -28,4 +28,7 @@ Code 🔽
 * Greg's Workout [🏋🏻‍♂️] - ✅ [[Codeforces](https://codeforces.com/problemset/problem/255/A)]
 * Magnets [🧲] - ✅ [[Codefrces](https://codeforces.com/problemset/problem/344/A)]
 * Coder [👨🏻‍💻] - ✅ [[Codeforces](https://codeforces.com/problemset/problem/384/A)]
+* Osu!mania [🎵] - ✅ [[Codeforces](https://codeforces.com/problemset/problem/2009/B)]
+* Stair, Peak, or Neither ? [❓] - ✅ [[Codeforces](https://codeforces.com/problemset/problem/1950/A)]
+* Odd One Out [🍎🍏🍎] - ✅ [[Codeforces](https://codeforces.com/problemset/problem/1915/A)]
 
