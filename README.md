@@ -31,4 +31,4 @@ Code 🔽
 * Osu!mania [🎵] - ✅ [[Codeforces](https://codeforces.com/problemset/problem/2009/B)]
 * Stair, Peak, or Neither ? [❓] - ✅ [[Codeforces](https://codeforces.com/problemset/problem/1950/A)]
 * Odd One Out [🍎🍏🍎] - ✅ [[Codeforces](https://codeforces.com/problemset/problem/1915/A)]
-
+* Word On The Paper [📜] - ✅ [[Codeforces](https://codeforces.com/problemset/problem/1850/C)]
