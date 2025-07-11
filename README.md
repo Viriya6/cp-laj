@@ -33,4 +33,4 @@ Code 🔽
 * Odd One Out [🍎🍏🍎] - ✅ [[Codeforces](https://codeforces.com/problemset/problem/1915/A)]
 * Word On The Paper [📜] - ✅ [[Codeforces](https://codeforces.com/problemset/problem/1850/C)]
 * Mezo Playing Zoma [🎮] - ✅ [[Codeforces](https://codeforces.com/problemset/problem/1285/A)]
-
+* Bar [🍸] - ✅ [[Codeforces](https://codeforces.com/problemset/problem/56/A)]
